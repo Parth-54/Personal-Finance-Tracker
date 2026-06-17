@@ -249,20 +249,6 @@ Contributions welcome! Areas to help:
 
 ---
 
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) for details
-
----
-
-## 👤 Author
-
-**Aniket Behera**
-- GitHub: [@Smolry](https://github.com/Smolry)
-- LinkedIn: [aniket-behera-6a1192231](https://linkedin.com/in/aniket-behera-6a1192231)
-- Email: aniket.behera.0301@gmail.com
-
----
 
 ## 🙏 Acknowledgments
 
