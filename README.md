@@ -72,7 +72,7 @@ Personal-Finance-Tracker/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Smolry/Personal-Finance-Tracker.git
+git clone https://github.com/Parth-54/Personal-Finance-Tracker.git
 cd Personal-Finance-Tracker
 
 # Create virtual environment
